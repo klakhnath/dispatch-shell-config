@@ -1,5 +1,6 @@
 {
   "base_url": "https://dispatch.maximdispatch.com",
   "min_shell_ver": 1,
-  "message": ""
+  "message": "",
+  "min_build": 0
 }
